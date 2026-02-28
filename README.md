@@ -1,0 +1,1 @@
+# Multilingual-Handwritten-Exam-OCR-Solution-Using-Advanced-OCR-and-LLMs
